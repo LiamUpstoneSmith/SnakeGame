@@ -1,6 +1,6 @@
 # SnakeGame
 ---
-###My First game made with java!
+### My First game made with java!
 ---
 
 This Game was made with java in netBeans IDE. 
